@@ -6,18 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Power King</title>
-    <link rel="icon" href="../content/images/logo.png" type="image/gif" sizes="16x16">
+    <title>Xshop-Dự án Mẫu</title>
+    <link rel="icon" href="<?= $CONTENT_URL ?>/images/logo.png" type="image/gif" sizes="16x16">
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="../content/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/bootstrap.min.css" type="text/css">
     <!-- Font awesome -->
-    <link rel="stylesheet" href="../content/css/all.min.css" type="text/css">
+    <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/all.min.css" type="text/css">
     <!-- Slick slider -->
-    <link rel="stylesheet" href="../content/css/slick.css" type="text/css">
-    <link rel="stylesheet" href="../content/css/slick-theme.css" type="text/css">
+    <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/slick.css" type="text/css">
+    <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/slick-theme.css" type="text/css">
 
     <!-- Custom -->
-    <link rel="stylesheet" href="../content/css/style.css" type="text/css">
+    <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/style.css" type="text/css">
 
 </head>
 
